@@ -1,0 +1,12 @@
+/* p {
+    background-color: blue;
+} */
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.logo-and-nav{
+    display: flex;
+    
+    
+}

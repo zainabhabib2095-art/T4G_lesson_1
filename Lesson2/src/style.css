@@ -7,6 +7,30 @@
 }
 .logo-and-nav{
     display: flex;
+}
+h1{
+    font-family: fantasy;
+    font-size: 68px;
     
-    
+}
+.paragraph{
+    font-weight: bold;
+    /* letter-spacing: 3px; */
+    word-spacing: 3px;
+    line-height: 15px;
+    text-align: right align;
+    color: red;
+    text text-shadow: 3px 3px 5px blue;
+    background-color: black;
+
+}
+
+#paragraph{
+    opacity: 0.5;
+}
+header .hero-div{
+
+}
+.categories{
+    background-color: lightblue;
 }

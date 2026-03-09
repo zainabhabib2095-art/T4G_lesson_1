@@ -20,7 +20,7 @@ h1{
     line-height: 15px;
     text-align: right align;
     color: red;
-    text text-shadow: 3px 3px 5px blue;
+    text-shadow: 3px 3px 5px blue;
     background-color: black;
 
 }
@@ -28,9 +28,10 @@ h1{
 #paragraph{
     opacity: 0.5;
 }
-header .hero-div{
 
-}
+/* header .hero-div{
+
+} */
 .categories{
     background-color: lightblue;
 }
